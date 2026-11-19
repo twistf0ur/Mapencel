@@ -1,0 +1,6 @@
+{
+  "name": "CelDraft",
+  "description": "Frame-by-frame browser 2D animation studio with onion skinning, multi-layer drawing, audio lip sync, and GIF or sprite sheet export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
